@@ -3,7 +3,7 @@
 
 Proyek ini adalah dashboard interaktif berbasis **HTML, TailwindCSS, dan Chart.js** untuk memvisualisasikan strategi pemasaran digital produk camilan tradisional *Rengginang*.  
 
-🌐 **Live Demo (GitHub Pages):** [https://username.github.io/studi-kasus-rengginang](https://deafatyrahman.github.io/StudiKasusDeaFaturahman)  
+🌐 **Live Demo (GitHub Pages):** [https://username.github.io/studi-kasus-rengginang](https://deafaturahman.github.io/StudiKasusDeaFaturahman)  
 
 
 ---
